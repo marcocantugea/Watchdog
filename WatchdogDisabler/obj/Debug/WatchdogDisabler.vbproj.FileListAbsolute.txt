@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\bin\Debug\WatchdogDisabler.exe
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\bin\Debug\WatchdogDisabler.pdb
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\bin\Debug\WatchdogDisabler.xml
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\WatchdogDisabler.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\WatchdogDisabler.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\WatchdogDisabler.exe
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\WatchdogDisabler.xml
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\WatchdogDisabler.pdb
+C:\Documents and Settings\Administrator\Desktop\Watchdog\WatchdogDisabler\obj\Debug\WatchdogDisabler.Main.resources

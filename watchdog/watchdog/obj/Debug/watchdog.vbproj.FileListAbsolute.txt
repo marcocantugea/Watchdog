@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\bin\Debug\watchdog.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\bin\Debug\watchdog.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\bin\Debug\watchdog.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\watchdog.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\watchdog.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\watchdog.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\watchdog.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\watchdog.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\obj\Debug\watchdog.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\watchdog\bin\Debug\watchdog.exe.config
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\bin\Debug\watchdog.exe.config
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\bin\Debug\watchdog.exe
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\bin\Debug\watchdog.pdb
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\bin\Debug\watchdog.xml
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\watchdog.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\watchdog.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\watchdog.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\watchdog.exe
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\watchdog.xml
+C:\Documents and Settings\Administrator\Desktop\Watchdog\watchdog\watchdog\obj\Debug\watchdog.pdb
